@@ -1,5 +1,7 @@
 # Amazon Sales Dashboard
 
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=5240839d-862a-439e-9c8d-e238549d0464
+
 ## Problem Statement
 
 This dashboard assists Amazon in understanding their sales performance and customer preferences better. It provides insights into various sales metrics, customer satisfaction, and operational efficiency. By analyzing the data from this dashboard, Amazon can identify key areas for improvement and optimize their strategies to enhance customer experience and boost sales.
